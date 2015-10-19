@@ -1,0 +1,19 @@
+{
+  "name": "study-budo",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "insert-css": "^0.2.0",
+    "vue": "^0.12.16",
+    "vue-strap": "^0.1.2",
+    "vueify": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "budo main.js --live -- -t vueify"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
